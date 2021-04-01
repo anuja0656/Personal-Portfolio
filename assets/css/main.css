@@ -2137,6 +2137,17 @@ input, select, textarea {
 		font-size: 0.9em;
 	}
 
+/* location */
+
+.location{
+	width: 80%;
+	margin: auto;
+	padding:80px 0px;
+  }
+  .location iframe{
+	width: 100%;
+  }
+
 /* Copyright */
 
 	#copyright {
